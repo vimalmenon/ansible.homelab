@@ -2,5 +2,7 @@
 
 #### To Do
 
-- [ ] Setup Inventory list
 - [ ] Create K3S setup
+- [ ] Ansible to run periodically
+- [ ] Ansible to updated DB
+- [ ] Set up full automation
