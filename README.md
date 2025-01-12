@@ -1,5 +1,6 @@
 # Ansible for Homelab
 
 #### To Do
-- [ ] Create K3S setup
 
+- [ ] Setup Inventory list
+- [ ] Create K3S setup
